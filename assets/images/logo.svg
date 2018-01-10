@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1372px" height="1372px" viewBox="0 0 1372 1372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ArtX_Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ArtXlogo" fill="#000000" fill-rule="nonzero">
+            <g id="ArtX_Logo">
+                <g id="Group">
+                    <path d="M1371.6,1371.6 L0.7,1371.6 L0.7,0.7 L1371.6,0.7 L1371.6,1371.6 Z M75.7,1296.6 L1296.6,1296.6 L1296.6,75.7 L75.7,75.7 L75.7,1296.6 Z" id="Shape"></path>
+                </g>
+                <polygon id="Shape" points="700.3 700.3 686.1 686.1 672 672 703.8 640.2 735.6 608.4 749.7 622.5 763.8 636.6 732.1 668.5"></polygon>
+                <polygon id="Shape" points="636.6 763.9 608.3 735.6 672 672 700.3 700.3"></polygon>
+                <polygon id="Shape" points="700.3 672 686.1 686.1 672 700.3 640.2 668.5 608.4 636.7 622.5 622.6 636.6 608.5 668.4 640.3"></polygon>
+                <polygon id="Shape" points="763.9 735.6 749.8 749.8 735.6 763.9 703.8 732.1 672 700.3 686.1 686.2 700.3 672 732.1 703.8"></polygon>
+                <path d="M322.4,877.7 L303.8,832.1 L225.4,832.1 L206.8,877.7 L164.7,877.7 L246.3,687 L283.9,687 L365,877.7 L322.4,877.7 Z M264.6,735.9 L240,796 L289.3,796 L264.6,735.9 Z" id="Shape"></path>
+                <path d="M454.9,769.9 C433.4,772.2 415.8,791.1 415.8,825 L415.8,877.4 L375.5,877.4 L375.5,735.5 L415.8,735.5 L415.8,761.3 C424,741.7 444.8,735.4 468.9,735.4 L468.9,769.9 L454.9,769.9 Z" id="Shape" stroke="#000000"></path>
+                <path d="M557.7,877.5 C533.1,877.5 516.4,867.7 516.4,834.9 L516.4,769.9 L481.8,769.9 L481.8,735.5 L516.4,735.5 L516.4,696.9 L556.7,696.9 L556.7,735.5 L591,735.5 L591,770 L556.6,770 L556.6,828.3 C556.6,837.6 560.6,842.1 569.6,842.1 C577,842.1 583.6,840.2 589.5,837.1 L589.5,869.4 C581,874.3 571.2,877.5 557.7,877.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
