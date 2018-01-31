@@ -23,6 +23,10 @@ body, html {
   font-family: "Gotham", "Helvetica", sans-serif;
 }
 
+body {
+  padding: 10px;
+}
+
 p {
   font-size: 1em;
   word-wrap: break-word;
