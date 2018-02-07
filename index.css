@@ -36,6 +36,14 @@ p.first {
   margin-top: 1em;
 }
 
+.italic {
+  font-style: italic;
+}
+
+a {
+  color: black;
+}
+
 canvas#bg {
   height: 100%;
   width: 100%;
@@ -110,6 +118,14 @@ input:focus, input:active {
 
   .logo-container {
     width: 40%;
+    position: relative;
+    display: block;
+    height: 1;
+  }
+
+  .logo-container img {
+    width: 40%;
+    position: fixed;
   }
 
   .intro-container {
