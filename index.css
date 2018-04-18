@@ -141,3 +141,14 @@ input:focus, input:active {
     padding: 1.5em;
   }
 }
+
+.desc {
+  margin: 20px;
+}
+
+.line {
+  height: 4px;
+  width: 80%;
+  margin: 50px 0px;
+  background-color: black;
+}
